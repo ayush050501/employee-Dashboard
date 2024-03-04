@@ -1,0 +1,15 @@
+.efgh{
+    display: flex;
+    justify-content: space-around;
+    height: 63px;
+    padding: 5%;
+    background-color: #38383880;
+    /* mix-blend-mode: multiply; */
+    border: 1px solid #000000;
+    opacity: 1;
+}
+.navigation:hover{
+    background-color: rgb(100, 128, 0);
+    mix-blend-mode: multiply;
+    width: 100%;
+}

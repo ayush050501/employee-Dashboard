@@ -1,0 +1,76 @@
+.image{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.email{
+width: 238px;
+/* height: 42px;  */
+background: #1F191966 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+mix-blend-mode: normal;
+opacity: 1;
+color: white;
+border-radius: 20px 20px 20px 20px;
+
+}
+::placeholder{
+    color: rgb(166, 195, 187);
+}
+.password{
+width: 238px;
+/* height: 42px; */
+background: #1F191966 0% 0% no-repeat padding-box;
+box-shadow: inset 0px 3px 3px #FFFDFD40, 3px 3px 3px #4A494947;
+mix-blend-mode: normal;
+opacity: 1;
+color: white;
+border-radius: 20px 20px 20px 20px;
+}
+.Login{
+width: 238px;
+/* height: 42px;  */
+background: transparent linear-gradient(180deg, #00FF2580 0%, #000000 100%, #36A54680 100%) 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+border: 2px solid #8CFF0026;
+opacity: 1;
+border-radius: 20px 20px 20px 20px;
+color: rgb(166, 195, 187);
+}
+.dashboard{
+width: 100%;
+height: 800px; 
+background: transparent linear-gradient(180deg, #000000 0%, #000E09 100%) 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+/* border-radius: 28px;  */
+opacity: 1;
+display: flex;
+justify-content: center;
+align-items: center;
+} 
+.Group3{
+height: 90px;  
+background: transparent url('Group3.png') 0% 0% no-repeat padding-box;
+mix-blend-mode: normal;
+opacity: 1;
+}
+.FP{
+font: normal normal normal 15px/20px Mulish;
+letter-spacing: 0.02px;
+color: #36A546;
+opacity: 1;
+}
+.from{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+.FP1{
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
